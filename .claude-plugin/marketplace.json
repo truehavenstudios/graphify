@@ -1,0 +1,13 @@
+{
+  "name": "graphify",
+  "description": "Graphify as a Claude plugin (fork by truehavenstudios).",
+  "owner": { "name": "truehavenstudios" },
+  "plugins": [
+    {
+      "name": "graphify",
+      "description": "Turn code, docs, papers and images into a queryable knowledge graph. Installs the graphifyy CLI on first use.",
+      "version": "0.9.104",
+      "source": "./"
+    }
+  ]
+}

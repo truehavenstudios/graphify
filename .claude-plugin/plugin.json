@@ -1,0 +1,11 @@
+{
+  "name": "graphify",
+  "description": "Turn code, docs, papers and images into a queryable knowledge graph (graph.json, interactive graph.html, GRAPH_REPORT.md). Installs the graphifyy CLI on first use.",
+  "version": "0.9.104",
+  "author": { "name": "Graphify Labs" },
+  "homepage": "https://github.com/Graphify-Labs/graphify",
+  "repository": "https://github.com/Graphify-Labs/graphify",
+  "license": "MIT OR Apache-2.0",
+  "keywords": ["knowledge-graph", "codebase", "architecture", "graphrag"],
+  "skills": "./skills/"
+}
